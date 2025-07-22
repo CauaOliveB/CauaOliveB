@@ -1,4 +1,4 @@
- Oii! Eu sou o Cauã Olive👋
+ Hello! I am Cauã Olive and is a pleasure to meet you all 👋
  
  <div>
     <a href="https://github.com/CauaOliveB">
