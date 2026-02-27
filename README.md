@@ -7,8 +7,6 @@
 
 <p align="center">▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:20</p>
 
-# Olá, prazer em conhecer!
-
 **Systems Development Technician | Software Developer no Corporativo**
 
 <p align="center">
