@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/736x/db/01/45/db0145a9c5c198f4c9e534f63fba4fa1.jpg" 
        alt="Banner Cauã" 
-       width="100%" 
+       width="90%" 
        style="border: 4px solid #fff; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.5); display: block; margin: 0 auto;">
 </div>
 
@@ -34,10 +34,6 @@
 
 ### ❄︎ Inverno: Tools & Environment
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</div>
 
 ---
 
