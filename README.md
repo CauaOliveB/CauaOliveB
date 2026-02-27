@@ -7,7 +7,8 @@
 
 <p align="center">▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:20</p>
 
-# 0x01.init(Cauã)
+# Olá, prazer em conhecer!
+
 **Systems Development Technician | Software Developer no Corporativo**
 
 <p align="center">
