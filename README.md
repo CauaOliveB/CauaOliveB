@@ -36,15 +36,6 @@
 
 ---
 
-##  Current Research (R&D)
-*❄︎ Tópicos em constante monitoramento e estudo:*
-
-- **IA / Machine Learning** [■■■■■□□□□□]
-- **Cibersegurança** [■■■■□□□□□□]
-- **Arquitetura de APIs** [■■■■■■■■□□]
-
----
-
 <div align="center">
   <code>status: active_learning</code> | <code>location: State of SP</code>
 </div>
